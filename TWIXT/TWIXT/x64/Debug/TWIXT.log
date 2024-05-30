@@ -1,0 +1,11 @@
+﻿  Reading Qt configuration (C:/Qt/6.6.1/msvc2019_64/bin/qmake)
+  Board.cpp
+  Bridge.cpp
+  Peg.cpp
+  Player.cpp
+  TWIXT.cpp
+  main.cpp
+C:\Users\andor\OneDrive\Desktop\ProiectMC\TWIXT\TWIXT\Board.cpp(294): warning C4715: 'Board::ValidPositionsForBridge': not all control paths return a value
+  qrc_TWIXT.cpp
+  moc_TWIXT.cpp
+  TWIXT.vcxproj -> C:\Users\andor\OneDrive\Desktop\ProiectMC\TWIXT\x64\Debug\TWIXT.exe
